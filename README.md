@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # hellogit2
+# nuevo hello2 
 ## commit 
 ## hola
 =======
